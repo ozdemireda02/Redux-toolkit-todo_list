@@ -1,9 +1,12 @@
-# React + Vite
+<h1> Redux-Toolkit / To do list </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Redux Toolkit ile yapılacakları hazırladığımız,düzenlediğimiz veya silebildiğimiz to do list
 
-Currently, two official plugins are available:
+<h2> Kullanılan Teknolojiler </h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Redux-toolkit-todo_list
+Toolkit,React-redux,React-router-dom ve React Bootstrap kullanılarak geliştirilmiştir.
+
+<h2> Çalışır Halinin Ekran Kaydı </h2>
+
+![](Redux-toolkit-todo_list.gif)
+
